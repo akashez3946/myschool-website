@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact - My School</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <p>Email: contact@myschool.com</p>
+    <p>Phone: +91-9876543210</p>
+    <p>Location: City, State, Country</p>
+  </main>
+  <footer>
+    <p>© 2025 My School. All rights reserved.</p>
+  </footer>
+</body>
+</html>

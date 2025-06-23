@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us - My School</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About My School</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <p>My School was established in 2005. We focus on academics, sports, and holistic development.</p>
+  </main>
+  <footer>
+    <p>© 2025 My School. All rights reserved.</p>
+  </footer>
+</body>
+</html>

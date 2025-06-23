@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My School</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My School</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Quality Education for the Future</h2>
+    <p>We are committed to providing excellent education and co-curricular development for every student.</p>
+  </main>
+  <footer>
+    <p>© 2025 My School. All rights reserved.</p>
+  </footer>
+</body>
+</html>
